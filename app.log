@@ -1,0 +1,598 @@
+2024-10-12 02:53:08,653 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 02:53:08,654 [INFO] Iniciando o servidor Flask...
+2024-10-12 02:53:08,684 [WARNING]  * Debugger is active!
+2024-10-12 02:53:08,699 [INFO]  * Debugger PIN: 449-488-692
+2024-10-12 02:53:16,235 [INFO] 127.0.0.1 - - [12/Oct/2024 02:53:16] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:53:16,240 [INFO] Imagem decodificada com sucesso.
+2024-10-12 02:53:16,242 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_f29d4a3a99994a609cebedcfe1035e6e.png
+2024-10-12 02:53:16,253 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_f29d4a3a99994a609cebedcfe1035e6e.png
+2024-10-12 02:53:16,264 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 02:53:16,264 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 02:53:16,265 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 02:53:16,266 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 02:53:16,267 [INFO] 127.0.0.1 - - [12/Oct/2024 02:53:16] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 02:54:28,214 [INFO] 127.0.0.1 - - [12/Oct/2024 02:54:28] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:54:28,217 [INFO] Imagem decodificada com sucesso.
+2024-10-12 02:54:28,219 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_a3dcdb8deae44a01bafc18a0d0d23bfa.png
+2024-10-12 02:54:28,232 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_a3dcdb8deae44a01bafc18a0d0d23bfa.png
+2024-10-12 02:54:28,236 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 02:54:28,236 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 02:54:28,237 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 02:54:28,237 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 02:54:28,238 [INFO] 127.0.0.1 - - [12/Oct/2024 02:54:28] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 02:54:32,263 [INFO] Imagem decodificada com sucesso.
+2024-10-12 02:54:32,264 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_e58361637d2f4faaad2fc2bfe3fa96ca.png
+2024-10-12 02:54:32,276 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_e58361637d2f4faaad2fc2bfe3fa96ca.png
+2024-10-12 02:54:32,281 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 02:54:32,281 [INFO] Bounding Box - Largura: 244 pixels, Altura: 567 pixels
+2024-10-12 02:54:32,282 [INFO] Tamanho do pé calculado: 48.800000000000004 cm
+2024-10-12 02:54:32,283 [INFO] Tamanho do pé calculado com sucesso: 48.8 cm
+2024-10-12 02:54:32,283 [INFO] 127.0.0.1 - - [12/Oct/2024 02:54:32] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 02:54:36,960 [INFO] 127.0.0.1 - - [12/Oct/2024 02:54:36] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:54:36,972 [INFO] Imagem decodificada com sucesso.
+2024-10-12 02:54:36,974 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_3574f9b8376a4f359a0c3aeda908a4a9.png
+2024-10-12 02:54:37,044 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_3574f9b8376a4f359a0c3aeda908a4a9.png
+2024-10-12 02:54:37,059 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 02:54:37,060 [INFO] Bounding Box - Largura: 343 pixels, Altura: 519 pixels
+2024-10-12 02:54:37,060 [INFO] Tamanho do pé calculado: 68.60000000000001 cm
+2024-10-12 02:54:37,061 [INFO] Tamanho do pé calculado com sucesso: 68.6 cm
+2024-10-12 02:54:37,062 [INFO] 127.0.0.1 - - [12/Oct/2024 02:54:37] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 02:54:51,931 [INFO]  * Detected change in 'C:\\Users\\Douglas\\Desktop\\Testes\\backend\\app.py', reloading
+2024-10-12 02:54:52,873 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 02:54:52,874 [INFO] Iniciando o servidor Flask...
+2024-10-12 02:54:52,898 [WARNING]  * Debugger is active!
+2024-10-12 02:54:52,913 [INFO]  * Debugger PIN: 449-488-692
+2024-10-12 02:55:13,267 [INFO] 127.0.0.1 - - [12/Oct/2024 02:55:13] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:55:13,271 [INFO] Imagem decodificada com sucesso.
+2024-10-12 02:55:13,273 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_d53f654c362e4255a2c0fca1c7650ff9.png
+2024-10-12 02:55:13,286 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_d53f654c362e4255a2c0fca1c7650ff9.png
+2024-10-12 02:55:13,297 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 02:55:13,297 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 02:55:13,298 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 02:55:13,300 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 02:55:13,300 [INFO] 127.0.0.1 - - [12/Oct/2024 02:55:13] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 02:56:38,109 [INFO] 127.0.0.1 - - [12/Oct/2024 02:56:38] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:56:39,845 [INFO] 127.0.0.1 - - [12/Oct/2024 02:56:39] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:56:40,615 [INFO] 127.0.0.1 - - [12/Oct/2024 02:56:40] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:56:41,938 [INFO] 127.0.0.1 - - [12/Oct/2024 02:56:41] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:56:42,068 [INFO] 127.0.0.1 - - [12/Oct/2024 02:56:42] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:56:42,210 [INFO] 127.0.0.1 - - [12/Oct/2024 02:56:42] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:46,352 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:46] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:46,357 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:46] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:46,364 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:46] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:46,367 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:46] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:46,374 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:46] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:46,379 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:46] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:46,381 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:46] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:46,384 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:46] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:48,467 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 02:58:48,468 [INFO] Iniciando o servidor Flask...
+2024-10-12 02:58:48,506 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-12 02:58:48,506 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-12 02:58:48,513 [INFO]  * Restarting with stat
+2024-10-12 02:58:49,213 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 02:58:49,214 [INFO] Iniciando o servidor Flask...
+2024-10-12 02:58:49,237 [WARNING]  * Debugger is active!
+2024-10-12 02:58:49,251 [INFO]  * Debugger PIN: 449-488-692
+2024-10-12 02:58:59,147 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:59] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:58:59,150 [INFO] Imagem decodificada com sucesso.
+2024-10-12 02:58:59,152 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_ca81cdfb01da453fabd48dbf60ea8d3e.png
+2024-10-12 02:58:59,165 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_ca81cdfb01da453fabd48dbf60ea8d3e.png
+2024-10-12 02:58:59,176 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 02:58:59,176 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 02:58:59,176 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 02:58:59,177 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 02:58:59,177 [INFO] 127.0.0.1 - - [12/Oct/2024 02:58:59] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 02:59:03,944 [INFO] Imagem decodificada com sucesso.
+2024-10-12 02:59:03,946 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_68f906e4310d4e5bad5a0f710a93f30d.png
+2024-10-12 02:59:03,957 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_68f906e4310d4e5bad5a0f710a93f30d.png
+2024-10-12 02:59:03,962 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 02:59:03,963 [INFO] Bounding Box - Largura: 22 pixels, Altura: 25 pixels
+2024-10-12 02:59:03,963 [INFO] Tamanho do pé calculado: 4.4 cm
+2024-10-12 02:59:03,964 [INFO] Tamanho do pé calculado com sucesso: 4.4 cm
+2024-10-12 02:59:03,965 [INFO] 127.0.0.1 - - [12/Oct/2024 02:59:03] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 02:59:55,943 [INFO] 127.0.0.1 - - [12/Oct/2024 02:59:55] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 02:59:55,948 [INFO] Imagem decodificada com sucesso.
+2024-10-12 02:59:55,950 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_734128c80370481db879ff24896e8ea8.png
+2024-10-12 02:59:55,963 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_734128c80370481db879ff24896e8ea8.png
+2024-10-12 02:59:55,967 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 02:59:55,968 [INFO] Bounding Box - Largura: 68 pixels, Altura: 12 pixels
+2024-10-12 02:59:55,969 [INFO] Tamanho do pé calculado: 13.600000000000001 cm
+2024-10-12 02:59:55,971 [INFO] Tamanho do pé calculado com sucesso: 13.6 cm
+2024-10-12 02:59:55,972 [INFO] 127.0.0.1 - - [12/Oct/2024 02:59:55] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:01:34,841 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 03:01:34,842 [INFO] Iniciando o servidor Flask...
+2024-10-12 03:01:34,881 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-12 03:01:34,881 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-12 03:01:34,888 [INFO]  * Restarting with stat
+2024-10-12 03:01:35,605 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 03:01:35,606 [INFO] Iniciando o servidor Flask...
+2024-10-12 03:01:35,626 [WARNING]  * Debugger is active!
+2024-10-12 03:01:35,639 [INFO]  * Debugger PIN: 449-488-692
+2024-10-12 03:01:40,169 [INFO] 127.0.0.1 - - [12/Oct/2024 03:01:40] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:01:40,173 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:01:40,175 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_870be8c4e38041c89c0dbb85f5dccea0.png
+2024-10-12 03:01:40,187 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_870be8c4e38041c89c0dbb85f5dccea0.png
+2024-10-12 03:01:40,198 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:01:40,198 [INFO] Bounding Box - Largura: 62 pixels, Altura: 140 pixels
+2024-10-12 03:01:40,198 [INFO] Tamanho do pé calculado: 12.4 cm
+2024-10-12 03:01:40,199 [INFO] Tamanho do pé calculado com sucesso: 12.4 cm
+2024-10-12 03:01:40,199 [INFO] 127.0.0.1 - - [12/Oct/2024 03:01:40] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:02:03,920 [INFO] 127.0.0.1 - - [12/Oct/2024 03:02:03] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:02:03,924 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:02:03,926 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_263f33aa66944a68aff8665de51713a6.png
+2024-10-12 03:02:03,939 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_263f33aa66944a68aff8665de51713a6.png
+2024-10-12 03:02:03,943 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:02:03,945 [INFO] Bounding Box - Largura: 38 pixels, Altura: 19 pixels
+2024-10-12 03:02:03,945 [INFO] Tamanho do pé calculado: 7.6000000000000005 cm
+2024-10-12 03:02:03,947 [INFO] Tamanho do pé calculado com sucesso: 7.6 cm
+2024-10-12 03:02:03,948 [INFO] 127.0.0.1 - - [12/Oct/2024 03:02:03] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:04:11,169 [INFO] 127.0.0.1 - - [12/Oct/2024 03:04:11] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:04:11,173 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:04:11,174 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_1398443a6f6249c382c9841e0fd7dad1.png
+2024-10-12 03:04:11,187 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_1398443a6f6249c382c9841e0fd7dad1.png
+2024-10-12 03:04:11,191 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:04:11,192 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:04:11,192 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:04:11,192 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:04:11,193 [INFO] 127.0.0.1 - - [12/Oct/2024 03:04:11] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:05:47,787 [INFO] 127.0.0.1 - - [12/Oct/2024 03:05:47] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:05:47,791 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:05:47,793 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_ca2a31f88067485b89ecb823c652df37.png
+2024-10-12 03:05:47,805 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_ca2a31f88067485b89ecb823c652df37.png
+2024-10-12 03:05:47,809 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:05:47,810 [INFO] Bounding Box - Largura: 62 pixels, Altura: 140 pixels
+2024-10-12 03:05:47,810 [INFO] Tamanho do pé calculado: 12.4 cm
+2024-10-12 03:05:47,812 [INFO] Tamanho do pé calculado com sucesso: 12.4 cm
+2024-10-12 03:05:47,813 [INFO] 127.0.0.1 - - [12/Oct/2024 03:05:47] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:06:59,897 [INFO] 127.0.0.1 - - [12/Oct/2024 03:06:59] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:06:59,902 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:06:59,904 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_e78af606d02347539f4709de84da8939.png
+2024-10-12 03:06:59,922 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_e78af606d02347539f4709de84da8939.png
+2024-10-12 03:06:59,931 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:06:59,932 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:06:59,933 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:06:59,933 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:06:59,934 [INFO] 127.0.0.1 - - [12/Oct/2024 03:06:59] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:07:28,900 [INFO] 127.0.0.1 - - [12/Oct/2024 03:07:28] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:07:28,904 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:07:28,905 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_0f21d2588aa1482b97ba5af9ae338212.png
+2024-10-12 03:07:28,918 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_0f21d2588aa1482b97ba5af9ae338212.png
+2024-10-12 03:07:28,922 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:07:28,922 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:07:28,923 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:07:28,925 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:07:28,925 [INFO] 127.0.0.1 - - [12/Oct/2024 03:07:28] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:07:54,252 [INFO] 127.0.0.1 - - [12/Oct/2024 03:07:54] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:07:54,257 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:07:54,259 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_692dd0dbd42247c9b4bb7ae2c8640982.png
+2024-10-12 03:07:54,277 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_692dd0dbd42247c9b4bb7ae2c8640982.png
+2024-10-12 03:07:54,281 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:07:54,281 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:07:54,282 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:07:54,284 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:07:54,284 [INFO] 127.0.0.1 - - [12/Oct/2024 03:07:54] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:07:59,099 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:07:59,101 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_d92806073048430f8e32475138d0903e.png
+2024-10-12 03:07:59,114 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_d92806073048430f8e32475138d0903e.png
+2024-10-12 03:07:59,118 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:07:59,118 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:07:59,119 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:07:59,119 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:07:59,120 [INFO] 127.0.0.1 - - [12/Oct/2024 03:07:59] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:08:27,656 [INFO] 127.0.0.1 - - [12/Oct/2024 03:08:27] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:08:27,660 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:08:27,664 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_eb4fbbb468d14ef98cc8b56aa52dfcf8.png
+2024-10-12 03:08:27,680 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_eb4fbbb468d14ef98cc8b56aa52dfcf8.png
+2024-10-12 03:08:27,684 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:08:27,685 [INFO] Bounding Box - Largura: 203 pixels, Altura: 349 pixels
+2024-10-12 03:08:27,685 [INFO] Tamanho do pé calculado: 40.6 cm
+2024-10-12 03:08:27,685 [INFO] Tamanho do pé calculado com sucesso: 40.6 cm
+2024-10-12 03:08:27,686 [INFO] 127.0.0.1 - - [12/Oct/2024 03:08:27] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:08:33,534 [INFO] 127.0.0.1 - - [12/Oct/2024 03:08:33] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:08:33,539 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:08:33,542 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_15bf89008a7542cb8007992643a430b2.png
+2024-10-12 03:08:33,557 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_15bf89008a7542cb8007992643a430b2.png
+2024-10-12 03:08:33,561 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:08:33,562 [INFO] Bounding Box - Largura: 283 pixels, Altura: 159 pixels
+2024-10-12 03:08:33,562 [INFO] Tamanho do pé calculado: 56.6 cm
+2024-10-12 03:08:33,563 [INFO] Tamanho do pé calculado com sucesso: 56.6 cm
+2024-10-12 03:08:33,564 [INFO] 127.0.0.1 - - [12/Oct/2024 03:08:33] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:08:44,866 [INFO] 127.0.0.1 - - [12/Oct/2024 03:08:44] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:08:44,874 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:08:44,875 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_dc8c16e2a4b54bf387580e35b9e7681b.png
+2024-10-12 03:08:44,923 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_dc8c16e2a4b54bf387580e35b9e7681b.png
+2024-10-12 03:08:44,928 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:08:44,928 [INFO] Bounding Box - Largura: 203 pixels, Altura: 349 pixels
+2024-10-12 03:08:44,929 [INFO] Tamanho do pé calculado: 40.6 cm
+2024-10-12 03:08:44,929 [INFO] Tamanho do pé calculado com sucesso: 40.6 cm
+2024-10-12 03:08:44,930 [INFO] 127.0.0.1 - - [12/Oct/2024 03:08:44] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:10:49,584 [INFO] 127.0.0.1 - - [12/Oct/2024 03:10:49] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:10:49,588 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:10:49,589 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_1c7a3c64c74a4b16948c8d96ccd5af5f.png
+2024-10-12 03:10:49,603 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_1c7a3c64c74a4b16948c8d96ccd5af5f.png
+2024-10-12 03:10:49,608 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:10:49,608 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 03:10:49,609 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 03:10:49,610 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 03:10:49,611 [INFO] 127.0.0.1 - - [12/Oct/2024 03:10:49] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:10:55,108 [INFO] 127.0.0.1 - - [12/Oct/2024 03:10:55] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:10:55,112 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:10:55,113 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_81b2657e384848c490355309f857e8d9.png
+2024-10-12 03:10:55,125 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_81b2657e384848c490355309f857e8d9.png
+2024-10-12 03:10:55,132 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:10:55,134 [INFO] Bounding Box - Largura: 32 pixels, Altura: 56 pixels
+2024-10-12 03:10:55,134 [INFO] Tamanho do pé calculado: 6.4 cm
+2024-10-12 03:10:55,135 [INFO] Tamanho do pé calculado com sucesso: 6.4 cm
+2024-10-12 03:10:55,135 [INFO] 127.0.0.1 - - [12/Oct/2024 03:10:55] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:11:00,733 [INFO] 127.0.0.1 - - [12/Oct/2024 03:11:00] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:11:00,738 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:11:00,739 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_fd362f1d39af4c3e88426119893c40fa.png
+2024-10-12 03:11:00,752 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_fd362f1d39af4c3e88426119893c40fa.png
+2024-10-12 03:11:00,760 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:11:00,761 [INFO] Bounding Box - Largura: 177 pixels, Altura: 14 pixels
+2024-10-12 03:11:00,761 [INFO] Tamanho do pé calculado: 35.4 cm
+2024-10-12 03:11:00,762 [INFO] Tamanho do pé calculado com sucesso: 35.4 cm
+2024-10-12 03:11:00,763 [INFO] 127.0.0.1 - - [12/Oct/2024 03:11:00] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:11:06,221 [INFO] 127.0.0.1 - - [12/Oct/2024 03:11:06] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:11:06,227 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:11:06,228 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_0fad54e322a4423fb7bb74a97142bb21.png
+2024-10-12 03:11:06,240 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_0fad54e322a4423fb7bb74a97142bb21.png
+2024-10-12 03:11:06,244 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:11:06,244 [INFO] Bounding Box - Largura: 528 pixels, Altura: 317 pixels
+2024-10-12 03:11:06,244 [INFO] Tamanho do pé calculado: 105.60000000000001 cm
+2024-10-12 03:11:06,246 [INFO] Tamanho do pé calculado com sucesso: 105.6 cm
+2024-10-12 03:11:06,247 [INFO] 127.0.0.1 - - [12/Oct/2024 03:11:06] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:11:28,417 [INFO] 127.0.0.1 - - [12/Oct/2024 03:11:28] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:11:28,422 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:11:28,424 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_3ff119c92e0940658dcc41a323274c25.png
+2024-10-12 03:11:28,436 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_3ff119c92e0940658dcc41a323274c25.png
+2024-10-12 03:11:28,441 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:11:28,441 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 03:11:28,442 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 03:11:28,442 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 03:11:28,443 [INFO] 127.0.0.1 - - [12/Oct/2024 03:11:28] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:12:23,528 [INFO] 127.0.0.1 - - [12/Oct/2024 03:12:23] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:12:23,532 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:12:23,533 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_9d000ca477574e94b157cd497f3caec2.png
+2024-10-12 03:12:23,545 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_9d000ca477574e94b157cd497f3caec2.png
+2024-10-12 03:12:23,550 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:12:23,550 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:12:23,551 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:12:23,552 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:12:23,552 [INFO] 127.0.0.1 - - [12/Oct/2024 03:12:23] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:13:25,064 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 03:13:25,064 [INFO] Iniciando o servidor Flask...
+2024-10-12 03:13:25,099 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-12 03:13:25,099 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-12 03:13:25,106 [INFO]  * Restarting with stat
+2024-10-12 03:13:25,709 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 03:13:25,710 [INFO] Iniciando o servidor Flask...
+2024-10-12 03:13:25,731 [WARNING]  * Debugger is active!
+2024-10-12 03:13:25,744 [INFO]  * Debugger PIN: 449-488-692
+2024-10-12 03:13:30,508 [INFO] 127.0.0.1 - - [12/Oct/2024 03:13:30] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:13:30,512 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:13:30,514 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_499e6d17501a44b297a5498576e20ee4.png
+2024-10-12 03:13:30,526 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_499e6d17501a44b297a5498576e20ee4.png
+2024-10-12 03:13:30,538 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:13:30,538 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:13:30,538 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:13:30,539 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:13:30,539 [INFO] 127.0.0.1 - - [12/Oct/2024 03:13:30] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:13:53,971 [INFO] 127.0.0.1 - - [12/Oct/2024 03:13:53] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:13:53,976 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:13:53,977 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_c1a6768915794acd80f5cca9d10f8a12.png
+2024-10-12 03:13:53,993 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_c1a6768915794acd80f5cca9d10f8a12.png
+2024-10-12 03:13:53,998 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:13:53,998 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 03:13:53,999 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 03:13:54,000 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 03:13:54,000 [INFO] 127.0.0.1 - - [12/Oct/2024 03:13:54] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:15:38,005 [INFO] 127.0.0.1 - - [12/Oct/2024 03:15:38] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:15:38,009 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:15:38,011 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_fa512b1108e942fc8b45d59a392ec070.png
+2024-10-12 03:15:38,026 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_fa512b1108e942fc8b45d59a392ec070.png
+2024-10-12 03:15:38,030 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:15:38,031 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 03:15:38,031 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 03:15:38,032 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 03:15:38,033 [INFO] 127.0.0.1 - - [12/Oct/2024 03:15:38] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:18:59,367 [INFO] 127.0.0.1 - - [12/Oct/2024 03:18:59] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:18:59,371 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:18:59,373 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_cf4aa8d4f7974fc29beeafb673aface8.png
+2024-10-12 03:18:59,386 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_cf4aa8d4f7974fc29beeafb673aface8.png
+2024-10-12 03:18:59,391 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:18:59,391 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 03:18:59,392 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 03:18:59,394 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 03:18:59,396 [INFO] 127.0.0.1 - - [12/Oct/2024 03:18:59] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:22:23,245 [INFO] 127.0.0.1 - - [12/Oct/2024 03:22:23] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:22:23,249 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:22:23,251 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_3d6b0e6f8ea64145ae35d4dd26cd3d76.png
+2024-10-12 03:22:23,263 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_3d6b0e6f8ea64145ae35d4dd26cd3d76.png
+2024-10-12 03:22:23,267 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:22:23,267 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:22:23,268 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:22:23,268 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:22:23,269 [INFO] 127.0.0.1 - - [12/Oct/2024 03:22:23] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:22:26,838 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:22:26,842 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_a7461d5b40a14289b8fa4eeaf110d7f4.png
+2024-10-12 03:22:26,874 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_a7461d5b40a14289b8fa4eeaf110d7f4.png
+2024-10-12 03:22:26,879 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:22:26,879 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 03:22:26,880 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 03:22:26,880 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 03:22:26,881 [INFO] 127.0.0.1 - - [12/Oct/2024 03:22:26] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:22:40,195 [INFO] 127.0.0.1 - - [12/Oct/2024 03:22:40] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:22:40,200 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:22:40,201 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_8a85650d2098467f8092b0329ea74234.png
+2024-10-12 03:22:40,216 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_8a85650d2098467f8092b0329ea74234.png
+2024-10-12 03:22:40,220 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:22:40,221 [INFO] Bounding Box - Largura: 203 pixels, Altura: 349 pixels
+2024-10-12 03:22:40,221 [INFO] Tamanho do pé calculado: 40.6 cm
+2024-10-12 03:22:40,222 [INFO] Tamanho do pé calculado com sucesso: 40.6 cm
+2024-10-12 03:22:40,222 [INFO] 127.0.0.1 - - [12/Oct/2024 03:22:40] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:22:51,166 [INFO] 127.0.0.1 - - [12/Oct/2024 03:22:51] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:22:51,171 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:22:51,174 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_0dbf52097b094ed2947c581de87d66b5.png
+2024-10-12 03:22:51,187 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_0dbf52097b094ed2947c581de87d66b5.png
+2024-10-12 03:22:51,197 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:22:51,198 [INFO] Bounding Box - Largura: 222 pixels, Altura: 249 pixels
+2024-10-12 03:22:51,198 [INFO] Tamanho do pé calculado: 44.400000000000006 cm
+2024-10-12 03:22:51,199 [INFO] Tamanho do pé calculado com sucesso: 44.4 cm
+2024-10-12 03:22:51,199 [INFO] 127.0.0.1 - - [12/Oct/2024 03:22:51] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:25:07,739 [INFO] 127.0.0.1 - - [12/Oct/2024 03:25:07] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:25:07,743 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:25:07,745 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_32d9266739a64dfcbd1cea9236c1e7f9.png
+2024-10-12 03:25:07,757 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_32d9266739a64dfcbd1cea9236c1e7f9.png
+2024-10-12 03:25:07,762 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:25:07,763 [INFO] Bounding Box - Largura: 62 pixels, Altura: 140 pixels
+2024-10-12 03:25:07,763 [INFO] Tamanho do pé calculado: 12.4 cm
+2024-10-12 03:25:07,764 [INFO] Tamanho do pé calculado com sucesso: 12.4 cm
+2024-10-12 03:25:07,765 [INFO] 127.0.0.1 - - [12/Oct/2024 03:25:07] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:32:14,092 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:14] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:32:14,099 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:32:14,100 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_5a2ad6b548254afeb49ad5629e2e049b.png
+2024-10-12 03:32:14,123 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_5a2ad6b548254afeb49ad5629e2e049b.png
+2024-10-12 03:32:14,125 [WARNING] Nenhum contorno encontrado na imagem.
+2024-10-12 03:32:14,126 [WARNING] Não foi possível detectar o pé na imagem.
+2024-10-12 03:32:14,127 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:14] "[31m[1mPOST /upload_image HTTP/1.1[0m" 400 -
+2024-10-12 03:32:23,032 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:23] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:32:23,039 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:32:23,040 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_316e1ddbf35b4f5c919d1ca8fc4d27e9.png
+2024-10-12 03:32:23,059 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_316e1ddbf35b4f5c919d1ca8fc4d27e9.png
+2024-10-12 03:32:23,062 [WARNING] Nenhum contorno encontrado na imagem.
+2024-10-12 03:32:23,062 [WARNING] Não foi possível detectar o pé na imagem.
+2024-10-12 03:32:23,063 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:23] "[31m[1mPOST /upload_image HTTP/1.1[0m" 400 -
+2024-10-12 03:32:29,021 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:29] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:32:29,026 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:32:29,027 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_efb492a4613b4a34a7788a536f9a95a5.png
+2024-10-12 03:32:29,040 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_efb492a4613b4a34a7788a536f9a95a5.png
+2024-10-12 03:32:29,043 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:32:29,044 [INFO] Bounding Box - Largura: 171 pixels, Altura: 73 pixels
+2024-10-12 03:32:29,044 [INFO] Tamanho do pé calculado: 34.2 cm
+2024-10-12 03:32:29,046 [INFO] Tamanho do pé calculado com sucesso: 34.2 cm
+2024-10-12 03:32:29,046 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:29] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:32:34,098 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:34] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:32:34,102 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:32:34,103 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_3605c59eb58d4b9ebcaa6d865b5f2d3f.png
+2024-10-12 03:32:34,115 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_3605c59eb58d4b9ebcaa6d865b5f2d3f.png
+2024-10-12 03:32:34,119 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:32:34,119 [INFO] Bounding Box - Largura: 34 pixels, Altura: 193 pixels
+2024-10-12 03:32:34,119 [INFO] Tamanho do pé calculado: 6.800000000000001 cm
+2024-10-12 03:32:34,121 [INFO] Tamanho do pé calculado com sucesso: 6.8 cm
+2024-10-12 03:32:34,122 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:34] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:32:43,074 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:43] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:32:43,081 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:32:43,083 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_94fc58a3f93b41f9b46d90593955d4ef.png
+2024-10-12 03:32:43,096 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_94fc58a3f93b41f9b46d90593955d4ef.png
+2024-10-12 03:32:43,099 [WARNING] Nenhum contorno encontrado na imagem.
+2024-10-12 03:32:43,100 [WARNING] Não foi possível detectar o pé na imagem.
+2024-10-12 03:32:43,100 [INFO] 127.0.0.1 - - [12/Oct/2024 03:32:43] "[31m[1mPOST /upload_image HTTP/1.1[0m" 400 -
+2024-10-12 03:33:03,820 [INFO] 127.0.0.1 - - [12/Oct/2024 03:33:03] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:33:03,827 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:33:03,829 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_3481832db15a4da59b559c08aa701fbd.png
+2024-10-12 03:33:03,843 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_3481832db15a4da59b559c08aa701fbd.png
+2024-10-12 03:33:03,845 [WARNING] Nenhum contorno encontrado na imagem.
+2024-10-12 03:33:03,846 [WARNING] Não foi possível detectar o pé na imagem.
+2024-10-12 03:33:03,847 [INFO] 127.0.0.1 - - [12/Oct/2024 03:33:03] "[31m[1mPOST /upload_image HTTP/1.1[0m" 400 -
+2024-10-12 03:33:19,170 [INFO] 127.0.0.1 - - [12/Oct/2024 03:33:19] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:33:19,177 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:33:19,179 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_daae0455b2a547d28b478691ea836bd7.png
+2024-10-12 03:33:19,193 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_daae0455b2a547d28b478691ea836bd7.png
+2024-10-12 03:33:19,195 [WARNING] Nenhum contorno encontrado na imagem.
+2024-10-12 03:33:19,196 [WARNING] Não foi possível detectar o pé na imagem.
+2024-10-12 03:33:19,196 [INFO] 127.0.0.1 - - [12/Oct/2024 03:33:19] "[31m[1mPOST /upload_image HTTP/1.1[0m" 400 -
+2024-10-12 03:33:23,219 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:33:23,221 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_8521103d42d54127b47f05af372d8916.png
+2024-10-12 03:33:23,238 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_8521103d42d54127b47f05af372d8916.png
+2024-10-12 03:33:23,242 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:33:23,242 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:33:23,243 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:33:23,245 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:33:23,246 [INFO] 127.0.0.1 - - [12/Oct/2024 03:33:23] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 03:34:14,584 [INFO] 127.0.0.1 - - [12/Oct/2024 03:34:14] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 03:34:14,589 [INFO] Imagem decodificada com sucesso.
+2024-10-12 03:34:14,590 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_4f8ac940273b42a4b683ba1b41dc864b.png
+2024-10-12 03:34:14,602 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_4f8ac940273b42a4b683ba1b41dc864b.png
+2024-10-12 03:34:14,608 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 03:34:14,608 [INFO] Bounding Box - Largura: 310 pixels, Altura: 138 pixels
+2024-10-12 03:34:14,608 [INFO] Tamanho do pé calculado: 62.0 cm
+2024-10-12 03:34:14,610 [INFO] Tamanho do pé calculado com sucesso: 62.0 cm
+2024-10-12 03:34:14,611 [INFO] 127.0.0.1 - - [12/Oct/2024 03:34:14] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:08,002 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 09:18:08,005 [INFO] Iniciando o servidor Flask...
+2024-10-12 09:18:08,066 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-12 09:18:08,066 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-12 09:18:08,077 [INFO]  * Restarting with stat
+2024-10-12 09:18:08,756 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 09:18:08,757 [INFO] Iniciando o servidor Flask...
+2024-10-12 09:18:08,780 [WARNING]  * Debugger is active!
+2024-10-12 09:18:08,796 [INFO]  * Debugger PIN: 449-488-692
+2024-10-12 09:18:11,395 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:11] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:11,400 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:18:11,402 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_3a35bf8069a547f1a896f18dc1ea2c08.png
+2024-10-12 09:18:11,484 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_3a35bf8069a547f1a896f18dc1ea2c08.png
+2024-10-12 09:18:11,524 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:18:11,525 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 09:18:11,525 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 09:18:11,526 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 09:18:11,527 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:11] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:24,932 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:24] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:29,001 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:29] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:44,767 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:44] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:45,609 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:45] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:45,740 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:45] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:54,651 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:54] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:58,535 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:58] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:58,542 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:58] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:58,550 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:58] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:58,553 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:18:58,554 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:18:58,556 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:18:58,557 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_42c5b2c4f0aa49ab81434e7d4f4605cc.png
+2024-10-12 09:18:58,559 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_c799391cf22e4fb4aac74db6e25ae756.png
+2024-10-12 09:18:58,560 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_c5dbdfd3621a49b1a1d0f86d2c1094af.png
+2024-10-12 09:18:58,574 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:18:58,574 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_c799391cf22e4fb4aac74db6e25ae756.png
+2024-10-12 09:18:58,575 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_c5dbdfd3621a49b1a1d0f86d2c1094af.png
+2024-10-12 09:18:58,575 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_42c5b2c4f0aa49ab81434e7d4f4605cc.png
+2024-10-12 09:18:58,576 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_f54435934d7141b1ad5f6479bdab67e0.png
+2024-10-12 09:18:58,580 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:18:58,583 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:18:58,588 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:18:58,592 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 09:18:58,593 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 09:18:58,593 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 09:18:58,594 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 09:18:58,596 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_f54435934d7141b1ad5f6479bdab67e0.png
+2024-10-12 09:18:58,597 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 09:18:58,600 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 09:18:58,601 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 09:18:58,605 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:58] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:58,607 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 09:18:58,607 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 09:18:58,608 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:18:58,613 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:58] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:58,614 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:58] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:18:58,614 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 09:18:58,615 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 09:18:58,619 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 09:18:58,621 [INFO] 127.0.0.1 - - [12/Oct/2024 09:18:58] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:19:01,910 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 09:19:01,911 [INFO] Iniciando o servidor Flask...
+2024-10-12 09:19:01,952 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-12 09:19:01,953 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-12 09:19:01,960 [INFO]  * Restarting with stat
+2024-10-12 09:19:02,688 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 09:19:02,688 [INFO] Iniciando o servidor Flask...
+2024-10-12 09:19:02,712 [WARNING]  * Debugger is active!
+2024-10-12 09:19:02,726 [INFO]  * Debugger PIN: 449-488-692
+2024-10-12 09:19:19,122 [INFO] 127.0.0.1 - - [12/Oct/2024 09:19:19] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:19:19,132 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:19:20,977 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_1ff6fbe3b821414dad815fe6e3d69263.png
+2024-10-12 09:19:21,303 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_1ff6fbe3b821414dad815fe6e3d69263.png
+2024-10-12 09:19:21,312 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:19:21,313 [INFO] Bounding Box - Largura: 33 pixels, Altura: 38 pixels
+2024-10-12 09:19:21,313 [INFO] Tamanho do pé calculado: 6.6000000000000005 cm
+2024-10-12 09:19:21,313 [INFO] Tamanho do pé calculado com sucesso: 6.6 cm
+2024-10-12 09:19:21,314 [INFO] 127.0.0.1 - - [12/Oct/2024 09:19:21] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:19:30,658 [INFO] 127.0.0.1 - - [12/Oct/2024 09:19:30] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:19:30,662 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:19:30,663 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_2dba452a134546e8a62283d2761fb30c.png
+2024-10-12 09:19:30,678 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_2dba452a134546e8a62283d2761fb30c.png
+2024-10-12 09:19:30,690 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:19:30,690 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 09:19:30,691 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 09:19:30,691 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 09:19:30,692 [INFO] 127.0.0.1 - - [12/Oct/2024 09:19:30] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:19:37,106 [INFO] 127.0.0.1 - - [12/Oct/2024 09:19:37] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:19:37,218 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:19:37,230 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_097e6bbf2c634e3e925d6e07e13a6d47.png
+2024-10-12 09:19:37,252 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_097e6bbf2c634e3e925d6e07e13a6d47.png
+2024-10-12 09:19:37,259 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:19:37,259 [INFO] Bounding Box - Largura: 31 pixels, Altura: 20 pixels
+2024-10-12 09:19:37,260 [INFO] Tamanho do pé calculado: 6.2 cm
+2024-10-12 09:19:37,261 [INFO] Tamanho do pé calculado com sucesso: 6.2 cm
+2024-10-12 09:19:37,261 [INFO] 127.0.0.1 - - [12/Oct/2024 09:19:37] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:21:26,541 [INFO] 127.0.0.1 - - [12/Oct/2024 09:21:26] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:21:26,546 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:21:26,548 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_c03280e7d0e14385877b9ffe2542297c.png
+2024-10-12 09:21:26,560 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_c03280e7d0e14385877b9ffe2542297c.png
+2024-10-12 09:21:26,564 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:21:26,565 [INFO] Bounding Box - Largura: 62 pixels, Altura: 140 pixels
+2024-10-12 09:21:26,565 [INFO] Tamanho do pé calculado: 12.4 cm
+2024-10-12 09:21:26,565 [INFO] Tamanho do pé calculado com sucesso: 12.4 cm
+2024-10-12 09:21:26,566 [INFO] 127.0.0.1 - - [12/Oct/2024 09:21:26] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:21:53,243 [INFO] 127.0.0.1 - - [12/Oct/2024 09:21:53] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:21:54,504 [INFO] 127.0.0.1 - - [12/Oct/2024 09:21:54] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:21:54,663 [INFO] 127.0.0.1 - - [12/Oct/2024 09:21:54] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:21:55,450 [INFO] 127.0.0.1 - - [12/Oct/2024 09:21:55] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:21:55,628 [INFO] 127.0.0.1 - - [12/Oct/2024 09:21:55] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:21:55,767 [INFO] 127.0.0.1 - - [12/Oct/2024 09:21:55] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:24:20,251 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 09:24:20,251 [INFO] Iniciando o servidor Flask...
+2024-10-12 09:24:20,293 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-12 09:24:20,293 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-12 09:24:20,301 [INFO]  * Restarting with stat
+2024-10-12 09:24:21,092 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 09:24:21,093 [INFO] Iniciando o servidor Flask...
+2024-10-12 09:24:21,117 [WARNING]  * Debugger is active!
+2024-10-12 09:24:21,132 [INFO]  * Debugger PIN: 449-488-692
+2024-10-12 09:27:25,520 [INFO] 127.0.0.1 - - [12/Oct/2024 09:27:25] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:27:25,524 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:27:25,525 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_575ac04970ca48479f5f8892c0629f89.png
+2024-10-12 09:27:25,540 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_575ac04970ca48479f5f8892c0629f89.png
+2024-10-12 09:27:25,550 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:27:25,550 [INFO] Bounding Box - Largura: 62 pixels, Altura: 140 pixels
+2024-10-12 09:27:25,551 [INFO] Tamanho do pé calculado: 12.4 cm
+2024-10-12 09:27:25,551 [INFO] Tamanho do pé calculado com sucesso: 12.4 cm
+2024-10-12 09:27:25,552 [INFO] 127.0.0.1 - - [12/Oct/2024 09:27:25] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:27:35,750 [INFO] 127.0.0.1 - - [12/Oct/2024 09:27:35] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:27:35,754 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:27:35,755 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_23d5885d325f4c62808c2303190e2030.png
+2024-10-12 09:27:35,769 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_23d5885d325f4c62808c2303190e2030.png
+2024-10-12 09:27:35,774 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:27:35,775 [INFO] Bounding Box - Largura: 35 pixels, Altura: 19 pixels
+2024-10-12 09:27:35,775 [INFO] Tamanho do pé calculado: 7.0 cm
+2024-10-12 09:27:35,776 [INFO] Tamanho do pé calculado com sucesso: 7.0 cm
+2024-10-12 09:27:35,777 [INFO] 127.0.0.1 - - [12/Oct/2024 09:27:35] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:27:50,149 [INFO] 127.0.0.1 - - [12/Oct/2024 09:27:50] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:27:52,984 [INFO] 127.0.0.1 - - [12/Oct/2024 09:27:52] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:28:00,703 [INFO] 127.0.0.1 - - [12/Oct/2024 09:28:00] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:28:04,364 [INFO] 127.0.0.1 - - [12/Oct/2024 09:28:04] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:28:08,711 [INFO] 127.0.0.1 - - [12/Oct/2024 09:28:08] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:28:52,985 [INFO] 127.0.0.1 - - [12/Oct/2024 09:28:52] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:28:57,603 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:28:57,605 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_c77f5e478eda4885a462da1922acf1d1.png
+2024-10-12 09:28:57,621 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_c77f5e478eda4885a462da1922acf1d1.png
+2024-10-12 09:28:57,625 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:28:57,626 [INFO] Bounding Box - Largura: 178 pixels, Altura: 472 pixels
+2024-10-12 09:28:57,626 [INFO] Tamanho do pé calculado: 35.6 cm
+2024-10-12 09:28:57,627 [INFO] Tamanho do pé calculado com sucesso: 35.6 cm
+2024-10-12 09:28:57,628 [INFO] 127.0.0.1 - - [12/Oct/2024 09:28:57] "POST /upload_image HTTP/1.1" 200 -
+2024-10-12 09:29:01,086 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 09:29:01,087 [INFO] Iniciando o servidor Flask...
+2024-10-12 09:29:01,127 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-12 09:29:01,127 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-12 09:29:01,136 [INFO]  * Restarting with stat
+2024-10-12 09:29:01,822 [INFO] Usando diretório de upload existente: C:\Users\Douglas\Desktop\Testes\base
+2024-10-12 09:29:01,822 [INFO] Iniciando o servidor Flask...
+2024-10-12 09:29:01,851 [WARNING]  * Debugger is active!
+2024-10-12 09:29:01,869 [INFO]  * Debugger PIN: 449-488-692
+2024-10-12 09:29:05,951 [INFO] 127.0.0.1 - - [12/Oct/2024 09:29:05] "OPTIONS /upload_image HTTP/1.1" 200 -
+2024-10-12 09:29:05,956 [INFO] Imagem decodificada com sucesso.
+2024-10-12 09:29:05,958 [INFO] Imagem salva em C:\Users\Douglas\Desktop\Testes\base\captured_image_12f953563c9d487782da3172a1b49854.png
+2024-10-12 09:29:05,976 [INFO] Imagem carregada para processamento: C:\Users\Douglas\Desktop\Testes\base\captured_image_12f953563c9d487782da3172a1b49854.png
+2024-10-12 09:29:05,987 [INFO] Maior contorno encontrado para processamento.
+2024-10-12 09:29:05,988 [INFO] Bounding Box - Largura: 283 pixels, Altura: 159 pixels
+2024-10-12 09:29:05,988 [INFO] Tamanho do pé calculado: 56.6 cm
+2024-10-12 09:29:05,988 [INFO] Tamanho do pé calculado com sucesso: 56.6 cm
+2024-10-12 09:29:05,989 [INFO] 127.0.0.1 - - [12/Oct/2024 09:29:05] "POST /upload_image HTTP/1.1" 200 -
